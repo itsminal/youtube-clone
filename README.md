@@ -13,5 +13,8 @@ A simple clone of the YouTube website layout using HTML and CSS.
 - HTML5
 - CSS3
 
+## Website
+https://itsminal.github.io/youtube-clone/
+
 
 
